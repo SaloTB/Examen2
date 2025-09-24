@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Exam2
 {
-    internal class Pikachu
+    public enum MoveType
     {
+        Physical,
+        Special
     }
 }
