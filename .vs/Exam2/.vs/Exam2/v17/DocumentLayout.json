@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\DELL NV2 PRO\\Downloads\\Examen2\\.vs\\Exam2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F0528A0-AF6C-4F6B-AE85-4A7ABE371388}|Exam2.csproj|c:\\users\\dell nv2 pro\\downloads\\examen2\\.vs\\exam2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F0528A0-AF6C-4F6B-AE85-4A7ABE371388}|Exam2.csproj|solutionrelative:unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F0528A0-AF6C-4F6B-AE85-4A7ABE371388}|Exam2.csproj|c:\\users\\dell nv2 pro\\downloads\\examen2\\.vs\\exam2\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F0528A0-AF6C-4F6B-AE85-4A7ABE371388}|Exam2.csproj|solutionrelative:move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F0528A0-AF6C-4F6B-AE85-4A7ABE371388}|Exam2.csproj|c:\\users\\dell nv2 pro\\downloads\\examen2\\.vs\\exam2\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F0528A0-AF6C-4F6B-AE85-4A7ABE371388}|Exam2.csproj|solutionrelative:pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5F0528A0-AF6C-4F6B-AE85-4A7ABE371388}|Exam2.csproj|c:\\users\\dell nv2 pro\\downloads\\examen2\\.vs\\exam2\\damagecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F0528A0-AF6C-4F6B-AE85-4A7ABE371388}|Exam2.csproj|solutionrelative:damagecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0528A0-AF6C-4F6B-AE85-4A7ABE371388}|Exam2.csproj|c:\\users\\dell nv2 pro\\downloads\\examen2\\.vs\\exam2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0528A0-AF6C-4F6B-AE85-4A7ABE371388}|Exam2.csproj|solutionrelative:unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F0528A0-AF6C-4F6B-AE85-4A7ABE371388}|Exam2.csproj|c:\\users\\dell nv2 pro\\downloads\\examen2\\.vs\\exam2\\pokemontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,8 +19,16 @@
       "RelativeMoniker": "D:0:0:{5F0528A0-AF6C-4F6B-AE85-4A7ABE371388}|Exam2.csproj|solutionrelative:pokemonstub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5F0528A0-AF6C-4F6B-AE85-4A7ABE371388}|Exam2.csproj|c:\\users\\dell nv2 pro\\downloads\\examen2\\.vs\\exam2\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0528A0-AF6C-4F6B-AE85-4A7ABE371388}|Exam2.csproj|solutionrelative:pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5F0528A0-AF6C-4F6B-AE85-4A7ABE371388}|Exam2.csproj|c:\\users\\dell nv2 pro\\downloads\\examen2\\.vs\\exam2\\movetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F0528A0-AF6C-4F6B-AE85-4A7ABE371388}|Exam2.csproj|solutionrelative:movetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0528A0-AF6C-4F6B-AE85-4A7ABE371388}|Exam2.csproj|c:\\users\\dell nv2 pro\\downloads\\examen2\\.vs\\exam2\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0528A0-AF6C-4F6B-AE85-4A7ABE371388}|Exam2.csproj|solutionrelative:move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,24 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "PokemonStub.cs",
               "DocumentMoniker": "C:\\Users\\DELL NV2 PRO\\Downloads\\Examen2\\.vs\\Exam2\\PokemonStub.cs",
               "RelativeDocumentMoniker": "PokemonStub.cs",
               "ToolTip": "C:\\Users\\DELL NV2 PRO\\Downloads\\Examen2\\.vs\\Exam2\\PokemonStub.cs",
               "RelativeToolTip": "PokemonStub.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAABAAAAAbAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-24T12:03:20.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "MoveType.cs",
               "DocumentMoniker": "C:\\Users\\DELL NV2 PRO\\Downloads\\Examen2\\.vs\\Exam2\\MoveType.cs",
               "RelativeDocumentMoniker": "MoveType.cs",
@@ -68,65 +68,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "PokemonType.cs",
               "DocumentMoniker": "C:\\Users\\DELL NV2 PRO\\Downloads\\Examen2\\.vs\\Exam2\\PokemonType.cs",
               "RelativeDocumentMoniker": "PokemonType.cs",
               "ToolTip": "C:\\Users\\DELL NV2 PRO\\Downloads\\Examen2\\.vs\\Exam2\\PokemonType.cs",
               "RelativeToolTip": "PokemonType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAAwAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-24T11:47:23.287Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "DamageCalculator.cs",
               "DocumentMoniker": "C:\\Users\\DELL NV2 PRO\\Downloads\\Examen2\\.vs\\Exam2\\DamageCalculator.cs",
               "RelativeDocumentMoniker": "DamageCalculator.cs",
               "ToolTip": "C:\\Users\\DELL NV2 PRO\\Downloads\\Examen2\\.vs\\Exam2\\DamageCalculator.cs",
               "RelativeToolTip": "DamageCalculator.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAAACgAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-24T11:41:27.859Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Move.cs",
               "DocumentMoniker": "C:\\Users\\DELL NV2 PRO\\Downloads\\Examen2\\.vs\\Exam2\\Move.cs",
               "RelativeDocumentMoniker": "Move.cs",
               "ToolTip": "C:\\Users\\DELL NV2 PRO\\Downloads\\Examen2\\.vs\\Exam2\\Move.cs",
               "RelativeToolTip": "Move.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-24T11:24:39.364Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Pokemon.cs",
               "DocumentMoniker": "C:\\Users\\DELL NV2 PRO\\Downloads\\Examen2\\.vs\\Exam2\\Pokemon.cs",
               "RelativeDocumentMoniker": "Pokemon.cs",
               "ToolTip": "C:\\Users\\DELL NV2 PRO\\Downloads\\Examen2\\.vs\\Exam2\\Pokemon.cs",
               "RelativeToolTip": "Pokemon.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAAACcAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-24T11:19:52.21Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\DELL NV2 PRO\\Downloads\\Examen2\\.vs\\Exam2\\UnitTest1.cs",
               "RelativeDocumentMoniker": "UnitTest1.cs",
               "ToolTip": "C:\\Users\\DELL NV2 PRO\\Downloads\\Examen2\\.vs\\Exam2\\UnitTest1.cs",
               "RelativeToolTip": "UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAA8AAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-23T01:26:31.224Z",
               "EditorCaption": ""
